@@ -9,7 +9,7 @@ Etudiants :
 
 UPMC 2019
 
-## Rendus
+## Consignes
 
 Fichier  |
 ------------- | 
